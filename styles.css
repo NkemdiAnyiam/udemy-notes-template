@@ -11,7 +11,8 @@ html {
     padding: 0
 }
 
-button {
+button,
+hr {
     display: none;
 }
 
